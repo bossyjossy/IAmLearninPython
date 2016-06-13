@@ -13,5 +13,8 @@ Along the way, I'm going to be using all sorts of resources on the web to aid in
 set up a bookmarker here in case it's useful for others.
 ### Videos
 1. GitHub Training Videos
-..* [The Basics of Git and GitHub] (https://www.youtube.com/watch?v=U8GBXvdmHT4)
-..* [GitHub for Project Management] (https://www.youtube.com/watch?v=6fByt0o4UYs)
+  * [The Basics of Git and GitHub] (https://www.youtube.com/watch?v=U8GBXvdmHT4)
+  * [GitHub for Project Management] (https://www.youtube.com/watch?v=6fByt0o4UYs)
+2. Other Videos
+  * *Haven't found any yet!* 
+  * *Will add some when I come across them!*
