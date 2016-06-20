@@ -3,7 +3,7 @@
 # This is slightly modified from the lesson so that I can test things out
 # and really solidify what I learned.
 #
-# EXERCISE 4: More variables and printing
+# EXERCISE 5: More variables and printing
 
 # -------------------------------------------------------------------------
 # Setting the variables
